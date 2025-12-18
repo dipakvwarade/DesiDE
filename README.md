@@ -1,27 +1,47 @@
-# DesiDE
+<div align="center">
 
-[![Channel Logo](https://yt3.googleusercontent.com/nu2BtV-PU_fUGCaQXD7fFVuCxzlGwS8T7junV_Hv904iwx8de-yGAyPo5-37Q4uyp5tSm75BOp4=s160-c-k-c0x00ffffff-no-rj)](https://www.youtube.com/channel/UCmTurH5oLMPn3oxFVvOoBng)
+	<img src="https://yt3.googleusercontent.com/nu2BtV-PU_fUGCaQXD7fFVuCxzlGwS8T7junV_Hv904iwx8de-yGAyPo5-37Q4uyp5tSm75BOp4=s160-c-k-c0x00ffffff-no-rj" alt="DesiDE Channel Logo" width="120" />
 
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCmTurH5oLMPn3oxFVvOoBng?style=social)](https://www.youtube.com/channel/UCmTurH5oLMPn3oxFVvOoBng?sub_confirmation=1)
-[![YouTube Views](https://img.shields.io/youtube/channel/views/UCmTurH5oLMPn3oxFVvOoBng?style=social)](https://www.youtube.com/channel/UCmTurH5oLMPn3oxFVvOoBng)
+	<h1>DesiDE</h1>
+	<p><em>Life, Family & Cloud in Germany</em></p>
 
-Visit the channel: https://www.youtube.com/channel/UCmTurH5oLMPn3oxFVvOoBng
+	<a href="https://www.youtube.com/channel/UCmTurH5oLMPn3oxFVvOoBng?sub_confirmation=1">
+		<img alt="Subscribe" src="https://img.shields.io/badge/Subscribe-YouTube-red?logo=youtube&labelColor=121212" />
+	</a>
+	<a href="https://www.youtube.com/channel/UCmTurH5oLMPn3oxFVvOoBng">
+		<img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UCmTurH5oLMPn3oxFVvOoBng?style=social" />
+	</a>
+	<a href="https://www.linkedin.com/in/dipakwarade/">
+		<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dipak%20Warade-0A66C2?logo=linkedin&labelColor=121212" />
+	</a>
 
-DesiDE (@देसीDe) documents the life of an Indian expat family in Germany, covering daily experiences, financial tips, and professional insights. The channel features 15 videos and 404 subscribers, focusing on practical advice for Indians abroad.​
+</div>
 
-Channel Focus
-Content centers on three core themes for Indian viewers navigating Germany.
+---
 
-Life as an Indian dad: Family routines, parenting, and cultural adjustments.
+## Overview
 
-Family man experiences: Schooling kids, healthcare, and integration like BAMF courses.
+DesiDE (@देसीDe) documents the life of an Indian expat family in Germany — blending everyday experiences, practical finance tips, and professional insights — with a focus on helping Indians abroad navigate life and careers confidently.
 
-Cloud architect journey: Telecom cloud, Kubernetes, and career growth in Germany.​​
+## Table of Contents
+- [Overview](#overview)
+- [Themes](#themes)
+- [Video Highlights](#video-highlights)
+- [Watch](#watch)
+- [Connect](#connect)
 
-Video Highlights
-Key videos introduce the channel and its mission.
+## Themes
+- 👨‍👧‍👦 **Life as an Indian dad**: Family routines, parenting, and cultural adjustments.
+- 🏥 **Family man experiences**: Schooling, healthcare, integration (e.g., BAMF courses).
+- ☁️ **Cloud architect journey**: Telecom cloud, Kubernetes, and career growth in Germany.
 
-Introduction short: Shares expat journey on rent, taxes, and building a future.
+## Video Highlights
+- 🎬 **Introduction short**: Expat journey covering rent, taxes, and building a future.
+- 🎥 **Welcome video**: What to expect across dad, family, and architect perspectives.
 
-Welcome video: Outlines expectations for Indian dad, family man, and architect life in Germany.
-Explore the /videos tab for latest uploads sorted by date.
+## Watch
+- 🔗 **YouTube Channel**: https://www.youtube.com/channel/UCmTurH5oLMPn3oxFVvOoBng
+- 📁 **Browse videos**: Visit the channel’s /videos tab for the latest uploads.
+
+## Connect
+- 💼 **LinkedIn (Owner)**: [Dipak Warade](https://www.linkedin.com/in/dipakwarade/)
