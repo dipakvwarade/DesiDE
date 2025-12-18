@@ -1,5 +1,7 @@
 # DesiDE
 
+![Channel Logo](https://yt3.googleusercontent.com/nu2BtV-PU_fUGCaQXD7fFVuCxzlGwS8T7junV_Hv904iwx8de-yGAyPo5-37Q4uyp5tSm75BOp4=s160-c-k-c0x00ffffff-no-rj)
+
 DesiDE (@देसीDe) documents the life of an Indian expat family in Germany, covering daily experiences, financial tips, and professional insights. The channel features 15 videos and 404 subscribers, focusing on practical advice for Indians abroad.​
 
 Channel Focus
